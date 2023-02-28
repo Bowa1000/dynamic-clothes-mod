@@ -1,6 +1,7 @@
 {
-  "parent":"item/generated",
-  "textures":{
-	"layer0":"dynamicclothes:item/clothes"
-  }
+	"parent":"item/generated",
+	"textures":{
+		"layer0":"dynamicclothes:item/clothes_color",
+		"layer1":"dynamicclothes:item/clothes_detail"
+	}
 }

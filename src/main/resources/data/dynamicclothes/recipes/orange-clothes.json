@@ -1,6 +1,6 @@
 {
   "type":"minecraft:crafting_shaped",
   "pattern":["# #","###","###"],
-  "key":{"#":{"item":"minecraft:white_wool"}},
-  "result":{"item":"dynamicclothes:white_clothes"}
+  "key":{"#":{"item":"minecraft:orange_wool"}},
+  "result":{"item":"dynamicclothes:clothes"}
 }
